@@ -6,7 +6,7 @@
 
 [About](./About.md)
 
-[Posts](./Posts/)
+[Posts](./Posts/index.md)
 
 </div>
 
