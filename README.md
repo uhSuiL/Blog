@@ -4,7 +4,7 @@
 
 ## Index
 
-[About](./About.md)
+[About](./About/index.md)
 
 [Posts](./Posts/index.md)
 
